@@ -1,0 +1,54 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container
+{
+  background-color: #E4F9F5;
+  text-align: center;
+  padding-top: 200px;
+  position: relative;
+}
+.computer
+{
+  height: 300px;
+  width: 300px;
+  padding-top: 100px;
+}
+.middle-container
+{
+}
+.bottom-container
+{
+}
+h1
+{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Niconne', cursive;
+}
+h2
+{
+  font-family: 'Playfair Display', serif;
+}
+h3
+{
+  font-family: 'Playfair Display', serif;
+}
+.top-cloud
+{
+  position: absolute;
+  top:100px;
+  right:300px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  top: 300px;
+  left:300px;
+}
+.profile
+{
+  padding-top: 50px;
+}
